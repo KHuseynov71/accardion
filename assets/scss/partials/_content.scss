@@ -1,0 +1,11 @@
+ .content {
+     background-color: rgb(31, 29, 29);
+     height: 0;
+     overflow: hidden;
+     transition: 1000ms;
+ }
+
+ .active {
+     height: 200px;
+
+ }

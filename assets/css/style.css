@@ -1,0 +1,29 @@
+.content {
+  background-color: rgb(31, 29, 29);
+  height: 0;
+  overflow: hidden;
+  transition: 1000ms;
+}
+
+.active {
+  height: 200px;
+}
+
+body {
+  background-color: grey;
+}
+
+.accardion {
+  margin-top: 10%;
+  max-width: 1000px;
+}
+
+.box-one {
+  margin: 0;
+}
+
+.title-box {
+  background-color: darkgrey;
+  color: rgb(58, 79, 22);
+  cursor: pointer;
+}/*# sourceMappingURL=style.css.map */
